@@ -1,0 +1,25 @@
+.cartao{
+    background-color: var(--cor-3);
+    width: 280px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+.cartao:hover{
+    transform: scale(1.05);
+}
+.imagem{
+    width: 100%;
+    border-radius: 12px;
+}
+.nome{
+    color: var(--cor-4);
+    margin-top: 15px;
+}
+.preco{
+    color: var(--cor-4);
+    font-size: 22px;
+    font-weight: bold;
+}

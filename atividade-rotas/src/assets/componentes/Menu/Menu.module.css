@@ -1,0 +1,20 @@
+.navegacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    color: #f7a400;
+    font-size: 40px;
+}
+.header{
+    background-color: #43b7b8;
+}
+.link{
+    display: flex;
+    gap: 40px;
+}
+header{
+    background-color: linear-gradient(90deg, var(--cor-1), var(--cor-2));
+}

@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --cor-1: #43b7b8;
+  --cor-2:#7bc043;
+  --cor-3: #f7a400;
+  --cor-4:#1b4965;
+  --fundo: #fff7e8;
+  --fonte-principal: "Raleway", sans-serif;
+  --fonte-secundaria: "Playfair Display", serif;
+}

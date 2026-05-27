@@ -1,0 +1,34 @@
+.banner{
+    background-color: var(--cor-1);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px;
+}
+.logo{
+    color: #f7a400;
+    font-size: 35px;
+}
+.titulo{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.paragrafo{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.imagem{
+    width: 300px;
+    border-radius: 20px;
+}
+@media (max-width: 768px) {
+    .banner{
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+    .textos{
+        width: 100%;
+    }
+}

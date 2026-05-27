@@ -1,0 +1,17 @@
+.container{
+    padding: 60px;
+    background-color: var(--cor-2);
+    text-align: center;
+}
+.titulo{
+    color: var(--cor-4);
+    font-size: 38px;
+    margin-bottom: 40px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
