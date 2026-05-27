@@ -29,6 +29,13 @@
     line-height: 1.8;
     color: var(--azul-escuro);
     margin-bottom: 40px;
+    width: 60%;
+}
+
+.textos{
+    display: flex;
+    flex-direction: column;
+    margin-left: 7rem;
 }
 
 .infos{
@@ -38,5 +45,11 @@
     flex-wrap: wrap;
 }
 
+img{
+    width: 20%;
+    max-width: 4200px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
 
 

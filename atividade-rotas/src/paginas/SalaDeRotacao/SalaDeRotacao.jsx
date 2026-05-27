@@ -22,11 +22,42 @@ const SalaDeRotacao = () => {
     />
 
     <CartaoProduto
-    nome="Salsicha"
+    nome="Salsicha Rogerse"
     preco="89,90"
     imagem="/boneco3.png"
     />
 
+     <CartaoProduto
+    nome="Velma Dinkley"
+    preco="89,90"
+    imagem="/bonecoVelma.jpg"
+    />
+
+     <CartaoProduto
+    nome="Fred Jones"
+    preco="89,90"
+    imagem="/bonecoFred.jpg"
+    />
+
+     <CartaoProduto
+    nome="Daphne Blake"
+    preco="89,90"
+    imagem="/bonecoDafine.jpg"
+    />
+
+    <CartaoProduto
+    nome="Scooby-Doo"
+    preco="99,90"
+    imagem="/bonecoScooby.jpg"
+    />
+
+    <CartaoProduto
+    nome="o Fanstama do Capitão Cutler"
+    preco="82,90"
+    imagem="/bonecoMonstro.jpg"
+    />
+
+    
     </div>
     </section>
   );
